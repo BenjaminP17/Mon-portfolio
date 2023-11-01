@@ -16,8 +16,8 @@
 	--gray-999_40: hsla(var(--gray-999-basis), 0.4);
 	--gray-999: #ffffff;
 
-	--accent-light: #c561f6;
-	--accent-regular: #7611a6;
+	--accent-light: #5250d3;  /* #c561f6 */
+	--accent-regular: #1713fc; /* #c561f6 */
 	--accent-dark: #1c0056;
 	--accent-overlay: hsla(280, 89%, 67%, 0.33);
 	--accent-subtle-overlay: var(--accent-overlay);
@@ -155,6 +155,16 @@ h5 {
 	font-weight: 600;
 	color: var(--gray-100);
 }
+
+.logoBP {
+    
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+    
+
 
 h1 {
 	font-size: var(--text-5xl);
