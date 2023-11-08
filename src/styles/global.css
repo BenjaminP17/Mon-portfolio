@@ -19,7 +19,7 @@
 	--accent-light: #5250d3;  /* #c561f6 */
 	--accent-regular: #1713fc; /* #c561f6 */
 	--accent-dark: #1c0056;
-	--accent-overlay: hsla(280, 89%, 67%, 0.33);
+	--accent-overlay: #8490b5;
 	--accent-subtle-overlay: var(--accent-overlay);
 	--accent-text-over: var(--gray-999);
 
