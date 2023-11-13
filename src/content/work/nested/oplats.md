@@ -15,7 +15,7 @@ tags:
 
 #### Description du projet
 **Version** : 1.0 <br>
-**Statut** : Projet en cours de développement
+**Statut** : En cours de développement
 
 L'objectif principal est de proposer des idées de plats à cuisiner. Le projet vise à rendre la recherche aussi ludique que possible, en prenant en compte les critères spécifiques de l'utilisateur. Que celui-ci désire un plat incluant un ingrédient particulier ou non, qu'il préfère une cuisine spécifique, ou encore s'il souhaite se laisser totalement guider.
 
