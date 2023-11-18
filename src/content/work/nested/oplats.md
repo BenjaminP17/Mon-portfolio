@@ -31,7 +31,7 @@ L'objectif principal est de proposer des idées de plats à cuisiner. Le projet 
 
 - Amélioration du design de l'application (responsive)
 - Back office (gestion des utilisateur, validations des recettes)
-- Suppression de l'API externe (données recette géré en back)
+- Suppression de l'API externe (données recette gérées par le back)
 - suggestion recettes utilisateurs
 
 #### [Démo du projet](https://youtu.be/jHx5dFby_Jo)
