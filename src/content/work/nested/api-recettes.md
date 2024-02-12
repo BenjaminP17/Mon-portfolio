@@ -11,11 +11,27 @@ tags:
   - MySQL
 ---
 
-# Projet : API REST
+#### Description du projet
 
-## Description
+**Statut** : En développement <br>
+**Dates** : Décembre 2023 / ...
+
+#### Le projet
 
 API qui regroupe des recettes de cuisines du monde. Chacune sont définies par un nom, une description, une illustration, des ingrédients, étapes de préparation…
+
+#### Objectifs
+
+Développer une API en respectant les normes REST avec Symfony, en limitant l'utilisations des Bundles comme ~~API Platform~~, pour un meilleur apprentissage et compréhension des concetps.
+
+* Conceptualiser une base de données
+* Accéder aux données
+* Tester les routes (Avec Postman)
+* CRUD
+* Normes de sécurité 
+* Documenter l'API
+
+#### Fonctionnalités 
 
 [Repository Github](https://github.com/BenjaminP17/API-recette-V2)
 
