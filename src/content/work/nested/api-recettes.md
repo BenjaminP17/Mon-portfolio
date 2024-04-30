@@ -11,10 +11,8 @@ tags:
   - MySQL
 ---
 
-#### Description du projet
-
-**Statut** : En développement <br>
-**Dates** : Décembre 2023 / ...
+**Statut** : Terminé <br>
+**Dates** : Décembre 2023 à Janvier 2024
 
 #### Le projet
 
