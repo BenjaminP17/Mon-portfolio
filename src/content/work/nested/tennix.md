@@ -1,5 +1,5 @@
 ---
-title: Projet Tennix
+title: Projet Tennix Tracker
 publishDate: 2024-18-04 00:00:00
 img: /assets/illustration_tennix.png
 img_alt: page d'accueil du projet Tennix'
@@ -33,11 +33,15 @@ pourcentage de victoire, dernière rencontre jouée de la saison.
 
 * Suivi de l'évolution du classement du joueur sur l'année en cours
 
-#### Liens
+#### Liens :
 
-##### -> [Démo du projet](https://youtu.be/U7RWa9E9o2A) <-
+#### -> [Démo du projet](https://youtu.be/U7RWa9E9o2A) <-
+
+#### -> [Site](https://www.tennixtracker.com) <-
 
 [Repository Github](https://github.com/BenjaminP17/Tennix-Project)
+
+
 
 
 
